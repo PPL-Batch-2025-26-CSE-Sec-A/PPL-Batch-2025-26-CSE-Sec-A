@@ -1,7 +1,7 @@
 # PPL-Batch-2025-26-CSE-Sec-A
 
 ## 📌 Repository Rules & Guidelines
-##Date Folder Format is MM-DD-YYY
+## Date Folder Format is MM-DD-YYY
 
 To keep the repository clean and automated, please read and follow these rules strictly:
 
