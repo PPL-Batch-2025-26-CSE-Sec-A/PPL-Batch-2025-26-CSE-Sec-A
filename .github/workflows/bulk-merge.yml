@@ -143,6 +143,6 @@ jobs:
       - name: Auto-Merge Validated PR
         if: success() 
         run: |
-          gh pr merge ${{ github.event.pull_request.number }} --squash --admin --delete-branch
+          gh pr merge ${{ github.event.pull_request.number }} --auto --squash --delete-branch
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
