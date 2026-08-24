@@ -1,0 +1,17 @@
+#include<iostream>
+using namespace std;
+
+int main()
+{
+    int a,b;
+    cout<<"Enter a number ";
+    cin>>a;
+    cout<<"Enter a number ";
+    cin>>b;
+    a=a+b;
+    b=a-b;
+    a=a-b;
+    cout<<"After Swapping a is " << a << endl;
+    cout<<"After Swapping b is " << b << endl;
+    return 0;
+}
