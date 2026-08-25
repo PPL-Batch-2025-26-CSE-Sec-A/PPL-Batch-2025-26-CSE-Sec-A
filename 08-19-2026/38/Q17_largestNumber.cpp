@@ -6,7 +6,7 @@ int main(){
     cin>>a;
     cout<<"Enter second number b= ";
     cin>>b;
-    cout<<"Enter second number c= ";
+    cout<<"Enter third number c= ";
     cin>>c;
     if(a>b && a>c){
         cout<<a<<" is the largest number";
