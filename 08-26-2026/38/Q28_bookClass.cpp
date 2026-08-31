@@ -8,7 +8,7 @@ public:
         cin>>length;
         cout<<"Enter breath: ";
         cin>>breath;
-        cout<<"Enter length: ";
+        cout<<"Enter height: ";
         cin>>height;
     }
     void volume(){
