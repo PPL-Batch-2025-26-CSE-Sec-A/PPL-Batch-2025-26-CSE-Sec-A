@@ -13,7 +13,7 @@ public:
     void display(){
         cout<<"Student's Roll is: "<<roll<<endl;
         cout<<"Student's Name is: "<<name<<endl;
-        cout<<"Student's Name is: "<<marks<<endl;
+        cout<<"Student's Marks is: "<<marks<<endl;
     }
 };
 
